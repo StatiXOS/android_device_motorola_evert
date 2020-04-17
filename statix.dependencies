@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "StatiXOS/android_kernel_motorola_msm8998",
+    "target_path": "kernel/motorola/msm8998",
+    "branch": "10"
+  },
+  {
+    "repository": "StatiXOS/android_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "10"
+  },
+  {
+    "repository": "StatiXOS/android_device_motorola_sdm660-common",
+    "target_path": "device/motorola/sdm660-common",
+    "branch": "10"
+  }
+]
