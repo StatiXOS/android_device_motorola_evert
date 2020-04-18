@@ -1,4 +1,4 @@
-Copyright 2018 - The LineageOS Project
+Copyright 2020 - The LineageOS Project
 
 Device configuration for Motorola G6 Plus (evert)
 ==================================
