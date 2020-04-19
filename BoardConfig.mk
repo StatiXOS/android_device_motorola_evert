@@ -52,5 +52,8 @@ TARGET_HAS_NO_WLAN_STATS := true
 # RIL
 ENABLE_VENDOR_RIL_SERVICE := true
 
+# Adblock
+TARGET_USES_ADBLOCK_HOSTS := true
+
 # inherit from the proprietary version
 -include vendor/motorola/evert/BoardConfigVendor.mk
