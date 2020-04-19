@@ -15,13 +15,13 @@
     "branch": "10"
   },
   {
-    "repository": "StatiXOS/android_external_bson",
+    "repository": "LineageOS/android_external_bson",
     "target_path": "external/bson",
-    "branch": "10"
+    "branch": "lineage-17.1"
   },
   {
-    "repository": "StatiXOS/android_packages_resources_devicesettings",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch": "10"
+    "branch": "lineage-17.1"
   }
 ]
