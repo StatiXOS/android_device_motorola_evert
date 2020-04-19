@@ -13,5 +13,10 @@
     "repository": "StatiXOS/android_device_motorola_sdm660-common",
     "target_path": "device/motorola/sdm660-common",
     "branch": "10"
+  },
+  {
+    "repository": "StatiXOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "10"
   }
 ]
