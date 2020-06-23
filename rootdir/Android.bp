@@ -18,3 +18,10 @@ prebuilt_etc {
     sub_dir: "init/hw",
     src: "etc/init.evert.rc",
 }
+
+prebuilt_etc {
+    name: "init.recovery.evert.rc",
+    recovery: true,
+    sub_dir: "init/hw",
+    src: "etc/init.recovery.evert.rc",
+}
