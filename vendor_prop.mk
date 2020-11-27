@@ -25,6 +25,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.sensors=evert \
     ro.vendor.sensors.maghalcal=true \
+    ro.boot.product.hardware.sku=qcril \
     ro.vendor.sensors.amd=false \
     ro.vendor.sensors.pmd=false \
     ro.vendor.sensors.rmd=false \
